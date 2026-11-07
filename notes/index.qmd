@@ -1,0 +1,10 @@
+---
+title: "Notizen"
+description: "Kurze Anmerkungen zu neuen Entscheiden und Vorlagen."
+listing:
+  contents: "*.qmd"
+  sort: "date desc"
+  type: default
+  fields: [date, title, description]
+  feed: true
+---

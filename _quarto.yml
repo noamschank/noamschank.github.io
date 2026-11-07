@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Noam Schank"
+  site-url: "https://noamschank.github.io"
+  description: "Constitutional law, legal methodology, legal theory, law and economics."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Über mich
+      - href: publications.qmd
+        text: Publikationen
+      - href: notes/index.qmd
+        text: Notizen
+      - href: stellungnahmen.qmd
+        text: Stellungnahmen
+      - href: teaching.qmd
+        text: Lehre
+  page-footer:
+    center: "© 2026 Noam Schank"
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles.scss]
+      dark: [cosmo, styles-dark.scss]
+    toc: false
+    lang: de
+    # Remove the next two lines once the placeholders are filled in.
+    include-in-header:
+      text: '<meta name="robots" content="noindex, nofollow">'

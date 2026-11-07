@@ -1,0 +1,12 @@
+---
+title: "Publikationen"
+---
+
+::: {.todo}
+**TODO:** Vollständige Zitate der zwei Aufsätze einfügen (Autor, Titel, Zeitschrift, Jahr, Seiten, Link/DOI).
+:::
+
+## Aufsätze
+
+- [TODO]
+- [TODO]
