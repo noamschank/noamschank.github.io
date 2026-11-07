@@ -1,0 +1,4 @@
+# Applies to every note in this folder.
+author: "Noam Schank"
+citation: true      # citation box under each note (includes the DOI once there is one)
+google-scholar: true  # metadata tags that help Google Scholar

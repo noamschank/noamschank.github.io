@@ -14,6 +14,16 @@ keep it simple.
 - Notes in `notes/*.qmd` appear automatically on the Notizen page, newest
   first, with an RSS feed. Template: `notes/_template.md`.
 - Site language: German, with a short English bio on the home page.
+- DOIs: `zenodo.py` runs in the publish workflow before rendering. A note
+  with `zenodo: true` and no `doi:` is rendered to PDF (Quarto typst),
+  deposited and PUBLISHED on Zenodo (licence cc-by-4.0, creator "Schank,
+  Noam"), and the DOI is written back into its front matter and committed.
+  Publishing on Zenodo is permanent: never set `zenodo: true` on a note
+  yourself; only the owner does. Manual run with input zenodo=sandbox uses
+  sandbox.zenodo.org (ZENODO_SANDBOX_TOKEN), also handles `draft: true`
+  notes, and never writes sandbox DOIs back. `notes/_metadata.yml` adds a
+  citation box and Google Scholar meta tags to every note.
+- `website: draft-mode: gone` keeps `draft: true` notes off the site.
 
 ## Status (2026-11-07)
 - v1 built and tested locally (phone + desktop, light + dark).

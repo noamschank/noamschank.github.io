@@ -16,3 +16,7 @@ main.content { max-width: 38rem; }
 h1, h2, h3 { font-weight: 600; letter-spacing: -0.01em; }
 .navbar { border-bottom: 1px solid #2c2c31; box-shadow: none; }
 .todo { background: #3a3220; border-left: 3px solid #d9a400; padding: .5rem .8rem; }
+@media (max-width: 575px) {
+  .quarto-title-meta { grid-template-columns: 1fr !important; }
+}
+.quarto-title-meta-heading { overflow-wrap: anywhere; }

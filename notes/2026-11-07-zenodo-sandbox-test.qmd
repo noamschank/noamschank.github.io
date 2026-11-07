@@ -1,0 +1,9 @@
+---
+title: "Zenodo-Sandbox-Test"
+date: 2026-11-07
+description: "Test der DOI-Vergabe in der Zenodo-Sandbox. Erscheint nicht auf der Website."
+draft: true
+zenodo: true
+---
+
+Testtext. Diese Notiz ist ein Entwurf und wird nicht veröffentlicht.

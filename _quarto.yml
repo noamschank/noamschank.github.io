@@ -5,6 +5,7 @@ project:
 website:
   title: "Noam Schank"
   site-url: "https://noamschank.github.io"
+  draft-mode: gone
   description: "Constitutional law, legal methodology, legal theory, law and economics."
   navbar:
     left:
