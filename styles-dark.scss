@@ -20,3 +20,29 @@ h1, h2, h3 { font-weight: 600; letter-spacing: -0.01em; }
   .quarto-title-meta { grid-template-columns: 1fr !important; }
 }
 .quarto-title-meta-heading { overflow-wrap: anywhere; }
+
+/* Home page: text beside the portrait, stacked on phones. */
+.home { display: grid; grid-template-columns: 1fr 11rem; gap: 2rem; align-items: start; }
+.home .portrait, .home img { width: 100%; height: auto; border-radius: 2px; }
+.home .quarto-figure, .home figure, .home p:has(> img) { margin: 0; }
+.fields { display: block; font-size: 1.15rem; margin-bottom: .5rem; }
+@media (max-width: 575px) {
+  .home { grid-template-columns: 1fr; }
+  .home > :last-child { order: -1; max-width: 10rem; }
+}
+/* CV and teaching rows: date column, then entry. */
+.rows { list-style: none; padding: 0; margin: 0 0 1.2rem; display: grid; gap: .5rem; }
+.rows li { display: grid; grid-template-columns: 9.5rem 1fr; gap: 1rem; }
+.rows .when { opacity: .7; font-variant-numeric: tabular-nums; }
+.rows .what span { display: block; opacity: .7; font-size: .92em; }
+@media (max-width: 575px) { .rows li { grid-template-columns: 1fr; gap: 0; } }
+h3 { font-size: 1rem; text-transform: uppercase; letter-spacing: .08em; opacity: .75; margin-top: 1.8rem; }
+.pub { margin-bottom: 1.4rem; }
+.pub p { margin-bottom: .3rem; }
+.pub .abs { opacity: .75; }
+.note { border-left: 2px solid currentColor; opacity: .7; padding-left: .8rem; }
+/* Navbar: keep labels on one line. */
+.navbar .nav-link { white-space: nowrap; padding-left: .4rem !important; padding-right: .4rem !important; }
+.navbar .navbar-title { overflow: visible; text-overflow: clip; white-space: nowrap; }
+@media (min-width: 992px) and (max-width: 1199px) { .navbar { font-size: .9rem; } }
+.navbar-brand-container, .navbar-brand { flex-shrink: 0; max-width: none !important; }

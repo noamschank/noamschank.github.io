@@ -1,0 +1,46 @@
+---
+title: "Lebenslauf"
+---
+
+### Tätigkeiten
+
+```{=html}
+<ul class="rows">
+<li><div class="when">ab Jan. 2027</div><div class="what">Praktikum, Lenz &amp; Staehelin</div></li>
+<li><div class="when">seit Sept. 2025</div><div class="what">Hilfsassistent, Lehrstuhl Frei, Fernuniversität Brig<span>Recherche und Publikationsentwürfe; Falllösungen und Prüfungen</span></div></li>
+<li><div class="when">HS 2026</div><div class="what">Tutor für Verfassungsrecht (Grundrechte)</div></li>
+<li><div class="when">Feb.–Sept. 2024</div><div class="what">Hilfsassistent, Lehrstuhl Tschentscher, Universität Bern<span>Recherche zu historischen Verfassungen</span></div></li>
+</ul>
+```
+### Ausbildung
+
+```{=html}
+<ul class="rows">
+<li><div class="when">2024–2027</div><div class="what">Bachelor of Law, Universität Freiburg<span>Zusätze «Europarecht» und «Bilingue»</span></div></li>
+<li><div class="when">2025–2027</div><div class="what">Zusatzfach Volkswirtschaftslehre (40 ECTS)<span>Schwerpunkt Finanzwissenschaft</span></div></li>
+<li><div class="when">2023–2024</div><div class="what">Begabtenförderung, Universität Bern<span>Verfassungsgeschichte und Rechtsphilosophie</span></div></li>
+</ul>
+```
+### Stipendien
+
+```{=html}
+<ul class="rows">
+<li><div class="when">seit 2024</div><div class="what">Stipendiat der Schweizerischen Studienstiftung</div></li>
+</ul>
+```
+### Weitere Tätigkeiten
+
+```{=html}
+<ul class="rows">
+<li><div class="when">seit 2021</div><div class="what">Wikipedia-Autor<span>Staatsrecht und Verfassungsgeschichte; zahlreiche ausgezeichnete Artikel</span></div></li>
+</ul>
+```
+### Sprachen
+
+```{=html}
+<ul class="rows">
+<li><div class="when">Muttersprachen</div><div class="what">Deutsch, Hebräisch</div></li>
+<li><div class="when">Verhandlungssicher</div><div class="what">Englisch, Französisch</div></li>
+<li><div class="when">Fortgeschritten</div><div class="what">Spanisch</div></li>
+</ul>
+```

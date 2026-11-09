@@ -13,7 +13,15 @@ keep it simple.
   No tracking, no cookies, no analytics, no JavaScript frameworks.
 - Notes in `notes/*.qmd` appear automatically on the Notizen page, newest
   first, with an RSS feed. Template: `notes/_template.md`.
-- Site language: German, with a short English bio on the home page.
+- Languages: German at the root, French in `fr/`, English in `en/` (pages: index,
+  cv, publications, teaching). Notizen and Stellungnahmen are German only.
+  `lang.html` (tiny script) relabels the navbar and points DE/FR/EN to the
+  same page in the other language; without JS the site works in German.
+  Keep the three language versions of a page in step when editing.
+- `project.render` lists only `*.qmd` files, so CLAUDE.md and README.md are
+  never published.
+- Teaching materials: PDFs go in `materialien/` and are linked from
+  `teaching.qmd` (and fr/en versions).
 - DOIs: `zenodo.py` runs in the publish workflow before rendering. A note
   with `zenodo: true` and no `doi:` is rendered to PDF (Quarto typst),
   deposited and PUBLISHED on Zenodo (licence cc-by-4.0, creator "Schank,
@@ -25,15 +33,17 @@ keep it simple.
   citation box and Google Scholar meta tags to every note.
 - `website: draft-mode: gone` keeps `draft: true` notes off the site.
 
-## Status (2026-11-07)
-- v1 built and tested locally (phone + desktop, light + dark).
-- Placeholders marked `.todo` (yellow boxes) on index, publications, teaching.
-- `noindex` meta tag in `_quarto.yml` keeps search engines away until the
-  owner has filled in the texts. Remove it (and say so) only when he asks.
+## Status (2026-11-09)
+- Content filled in from the owner's CV and approved by him in chat:
+  bio (first person), CV, two articles, NZZ and Wikimedia CH interviews,
+  hobbies, email and LinkedIn. Portrait in `images/portrait.jpg`, supplied
+  by the owner for the site.
+- `noindex` removed at the owner's request; the site is meant to be found.
+- Tutorial listed as University of Fribourg, taught in German: unconfirmed.
 
 ## Rules
 - Owner writes all texts. Never invent biography, affiliations,
   publications or claims. Leave a clear TODO where text is missing.
-- Don't publish photos of the owner unless he adds them himself.
+- Don't publish photos of the owner unless he supplies them himself.
 - A custom domain may be added later via a CNAME file; don't add one now.
 - Must not depend on any claude.ai account feature. Everything is in this repo.

@@ -2,11 +2,34 @@
 title: "Publikationen"
 ---
 
-::: {.todo}
-**TODO:** Vollständige Zitate der zwei Aufsätze einfügen (Autor, Titel, Zeitschrift, Jahr, Seiten, Link/DOI).
+## Beiträge
+
+::: {.pub}
+Johann-Jakob Chervet / Noam Schank, *Notrecht und Rechtsstaat*, Unser Recht, 7. September 2026.
+
+[Besprechung des Teilurteils des Bundesverwaltungsgerichts zur Notfusion von Credit Suisse und UBS. Auch in der Krise bleibt der Bundesrat an Verfassung und Gesetz gebunden.]{.abs}
+
+[Beitrag lesen](https://unser-recht.ch/notrecht-und-rechtsstaat/)
 :::
 
-## Aufsätze
+::: {.pub}
+Noam Schank, *Gendergebote im Hörsaal. Verfassungsrechtliche Grenzen universitärer Sprachvorgaben*, ContraLegem 2026/1, S. 51–54.
 
-- [TODO]
-- [TODO]
+[Vorgaben zu geschlechtergerechter Sprache in Leistungsnachweisen greifen in die Sprachenfreiheit ein. Meist fehlt ihnen die gesetzliche Grundlage, und auf die Lehrfreiheit können sich Dozierende dafür nicht berufen.]{.abs}
+
+[Beitrag lesen](https://www.contralegem.ch/2026-08-17-m-2026-1-gendergebote-im-hoersaal/)
+:::
+
+## Interviews
+
+::: {.pub}
+Neue Zürcher Zeitung, *«Dieser verrückte Einfall von halbgebildeten Wichtigtuern wird sich nie durchsetzen» – wie Wikipedia trotzdem zum Weltwunder wurde*, 10. Januar 2026.
+
+[Zum Artikel](https://www.nzz.ch/gesellschaft/dieser-verrueckte-einfall-von-halbgebildeten-wichtigtuern-wird-sich-nie-durchsetzen-wie-wikipedia-trotzdem-zum-weltwunder-wurde-ld.1914516)
+:::
+
+::: {.pub}
+Wikimedia CH, *Jungwikipedianer gewährt Einblick in seine Arbeit auf Wikipedia*, 17. Juli 2024.
+
+[Zum Interview](https://wikimedia.ch/de/news/jungwikipediander-gewaehrt-einblick-in-seine-arbeit-auf-wikipedia/)
+:::

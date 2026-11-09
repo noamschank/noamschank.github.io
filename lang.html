@@ -1,0 +1,40 @@
+<script>
+/* Language switch for the DE/FR/EN pages. Without JavaScript the site still works in German. */
+(function () {
+  var about = document.querySelector('.navbar a.nav-link[href$="index.html"]');
+  if (!about) return;
+  var root = new URL('.', about.href).href;
+  var rel = location.href.split('#')[0].split('?')[0];
+  if (rel.indexOf(root) !== 0) return;
+  rel = rel.slice(root.length);
+  var lang = 'de', m = rel.match(/^(fr|en)\/(.*)$/);
+  if (m) { lang = m[1]; rel = m[2]; }
+  if (rel === '') rel = 'index.html';
+  var core = ['index.html', 'cv.html', 'publications.html', 'teaching.html'];
+  var labels = {
+    fr: {'index.html':'À propos','cv.html':'CV','publications.html':'Publications','teaching.html':'Enseignement','notes/index.html':'Notes','stellungnahmen.html':'Prises de position'},
+    en: {'index.html':'About','cv.html':'CV','publications.html':'Publications','teaching.html':'Teaching','notes/index.html':'Notes','stellungnahmen.html':'Consultations'}
+  };
+  document.querySelectorAll('.navbar a.nav-link').forEach(function (a) {
+    var target = a.href.indexOf(root) === 0 ? a.href.slice(root.length) : null;
+    if (target === null) return;
+    var sw = a.getAttribute('data-lang') || (a.querySelector('.menu-text') || {}).textContent;
+    if (sw === 'DE' || sw === 'FR' || sw === 'EN') {
+      var l = sw.toLowerCase();
+      var page = core.indexOf(rel) >= 0 ? rel : 'index.html';
+      a.href = root + (l === 'de' ? '' : l + '/') + page;
+      if (l === lang) { a.classList.add('active'); a.setAttribute('aria-current', 'true'); }
+      else { a.classList.remove('active'); a.removeAttribute('aria-current'); }
+      return;
+    }
+    if (lang === 'de') return;
+    if (core.indexOf(target) >= 0) a.href = root + lang + '/' + target;
+    var t = labels[lang][target];
+    var span = a.querySelector('.menu-text');
+    if (t && span) span.textContent = t;
+    if (core.indexOf(target) >= 0 && target === rel) a.classList.add('active');
+  });
+  var brand = document.querySelector('.navbar-brand');
+  if (brand && lang !== 'de') brand.href = root + lang + '/index.html';
+})();
+</script>

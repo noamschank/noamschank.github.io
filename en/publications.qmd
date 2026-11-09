@@ -1,0 +1,36 @@
+---
+title: "Publications"
+lang: en
+---
+
+## Articles
+
+::: {.pub}
+Johann-Jakob Chervet / Noam Schank, *Notrecht und Rechtsstaat*, Unser Recht, 7 September 2026.
+
+[A comment on the Federal Administrative Court’s partial judgment on the emergency merger of Credit Suisse and UBS. Even in a crisis, the Federal Council remains bound by the Constitution and by statute. (In German.)]{.abs}
+
+[Read the article](https://unser-recht.ch/notrecht-und-rechtsstaat/)
+:::
+
+::: {.pub}
+Noam Schank, *Gendergebote im Hörsaal. Verfassungsrechtliche Grenzen universitärer Sprachvorgaben*, ContraLegem 2026/1, pp. 51–54.
+
+[Requiring gender-inclusive language in university assessments interferes with the freedom of language. Such requirements mostly lack a statutory basis, and lecturers can’t rely on academic freedom to impose them. (In German.)]{.abs}
+
+[Read the article](https://www.contralegem.ch/2026-08-17-m-2026-1-gendergebote-im-hoersaal/)
+:::
+
+## Interviews
+
+::: {.pub}
+Neue Zürcher Zeitung, *«Dieser verrückte Einfall von halbgebildeten Wichtigtuern wird sich nie durchsetzen» – wie Wikipedia trotzdem zum Weltwunder wurde*, 10 January 2026.
+
+[Read the article (in German)](https://www.nzz.ch/gesellschaft/dieser-verrueckte-einfall-von-halbgebildeten-wichtigtuern-wird-sich-nie-durchsetzen-wie-wikipedia-trotzdem-zum-weltwunder-wurde-ld.1914516)
+:::
+
+::: {.pub}
+Wikimedia CH, *Young Wikipedian gives an insight into his work on Wikipedia*, 17 July 2024.
+
+[Read the interview](https://wikimedia.ch/en/news/jungwikipedianer-gewahrt-einblick-in-seine-arbeit-auf-wikipedia/)
+:::

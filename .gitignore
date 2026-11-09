@@ -4,3 +4,4 @@ _site/
 
 /.quarto/
 _zenodo/
+__pycache__/

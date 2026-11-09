@@ -1,0 +1,18 @@
+---
+title: "Enseignement"
+lang: fr
+---
+
+### Activités d’enseignement
+
+```{=html}
+<ul class="rows">
+<li><div class="when">SA 2026</div><div class="what">Tutorat de droit constitutionnel (droits fondamentaux), Université de Fribourg<span>En allemand</span></div></li>
+<li><div class="when">depuis sept. 2025</div><div class="what">Chaire Frei, Université à distance de Brigue<span>Conception de corrigés de cas et d’examens</span></div></li>
+</ul>
+```
+## Documents du tutorat de droits fondamentaux
+
+::: {.note}
+Les documents du tutorat seront publiés ici au cours du semestre.
+:::

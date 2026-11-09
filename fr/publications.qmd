@@ -1,0 +1,36 @@
+---
+title: "Publications"
+lang: fr
+---
+
+## Articles
+
+::: {.pub}
+Johann-Jakob Chervet / Noam Schank, *Notrecht und Rechtsstaat*, Unser Recht, 7 septembre 2026.
+
+[Commentaire de l’arrêt partiel du Tribunal administratif fédéral sur la fusion d’urgence de Credit Suisse et d’UBS. Même en temps de crise, le Conseil fédéral reste lié par la Constitution et la loi. (Article en allemand.)]{.abs}
+
+[Lire l’article](https://unser-recht.ch/notrecht-und-rechtsstaat/)
+:::
+
+::: {.pub}
+Noam Schank, *Gendergebote im Hörsaal. Verfassungsrechtliche Grenzen universitärer Sprachvorgaben*, ContraLegem 2026/1, p. 51–54.
+
+[Les exigences de langage inclusif dans les évaluations universitaires restreignent la liberté de la langue. Elles manquent le plus souvent de base légale, et les enseignants ne peuvent pas invoquer la liberté d’enseignement pour les imposer. (Article en allemand.)]{.abs}
+
+[Lire l’article](https://www.contralegem.ch/2026-08-17-m-2026-1-gendergebote-im-hoersaal/)
+:::
+
+## Entretiens
+
+::: {.pub}
+Neue Zürcher Zeitung, *«Dieser verrückte Einfall von halbgebildeten Wichtigtuern wird sich nie durchsetzen» – wie Wikipedia trotzdem zum Weltwunder wurde*, 10 janvier 2026.
+
+[Lire l’article (en allemand)](https://www.nzz.ch/gesellschaft/dieser-verrueckte-einfall-von-halbgebildeten-wichtigtuern-wird-sich-nie-durchsetzen-wie-wikipedia-trotzdem-zum-weltwunder-wurde-ld.1914516)
+:::
+
+::: {.pub}
+Wikimedia CH, *Un jeune wikipédien donne un aperçu de son travail sur Wikipédia*, 17 juillet 2024.
+
+[Lire l’entretien](https://wikimedia.ch/fr/news/jungwikipedianer-gewahrt-einblick-in-seine-arbeit-auf-wikipedia/)
+:::

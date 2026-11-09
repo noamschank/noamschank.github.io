@@ -1,0 +1,47 @@
+---
+title: "CV"
+lang: fr
+---
+
+### Activités
+
+```{=html}
+<ul class="rows">
+<li><div class="when">dès janv. 2027</div><div class="what">Stage, Lenz &amp; Staehelin</div></li>
+<li><div class="when">depuis sept. 2025</div><div class="what">Assistant étudiant, chaire Frei, Université à distance de Brigue<span>Recherche et projets de publication ; corrigés de cas et examens</span></div></li>
+<li><div class="when">SA 2026</div><div class="what">Tuteur en droit constitutionnel (droits fondamentaux)</div></li>
+<li><div class="when">févr.–sept. 2024</div><div class="what">Assistant étudiant, chaire Tschentscher, Université de Berne<span>Recherches sur des constitutions historiques</span></div></li>
+</ul>
+```
+### Formation
+
+```{=html}
+<ul class="rows">
+<li><div class="when">2024–2027</div><div class="what">Bachelor en droit, Université de Fribourg<span>Mentions « droit européen » et « bilingue »</span></div></li>
+<li><div class="when">2025–2027</div><div class="what">Branche complémentaire en économie politique (40 ECTS)<span>Spécialisation en finances publiques</span></div></li>
+<li><div class="when">2023–2024</div><div class="what">Programme pour étudiants doués, Université de Berne<span>Histoire constitutionnelle et philosophie du droit</span></div></li>
+</ul>
+```
+### Bourses
+
+```{=html}
+<ul class="rows">
+<li><div class="when">depuis 2024</div><div class="what">Boursier de la Fondation suisse d’études</div></li>
+</ul>
+```
+### Autres activités
+
+```{=html}
+<ul class="rows">
+<li><div class="when">depuis 2021</div><div class="what">Auteur sur Wikipédia<span>Droit public et histoire constitutionnelle ; nombreux articles distingués</span></div></li>
+</ul>
+```
+### Langues
+
+```{=html}
+<ul class="rows">
+<li><div class="when">Langues maternelles</div><div class="what">Allemand, hébreu</div></li>
+<li><div class="when">Courant</div><div class="what">Anglais, français</div></li>
+<li><div class="when">Avancé</div><div class="what">Espagnol</div></li>
+</ul>
+```

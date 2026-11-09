@@ -1,0 +1,47 @@
+---
+title: "CV"
+lang: en
+---
+
+### Positions
+
+```{=html}
+<ul class="rows">
+<li><div class="when">from Jan. 2027</div><div class="what">Internship, Lenz &amp; Staehelin</div></li>
+<li><div class="when">since Sept. 2025</div><div class="what">Student research assistant, Chair Frei, distance university, Brig<span>Research and draft publications; case solutions and exams</span></div></li>
+<li><div class="when">Autumn 2026</div><div class="what">Tutor in constitutional law (fundamental rights)</div></li>
+<li><div class="when">Feb.–Sept. 2024</div><div class="what">Student research assistant, Chair Tschentscher, University of Bern<span>Research on historical constitutions</span></div></li>
+</ul>
+```
+### Education
+
+```{=html}
+<ul class="rows">
+<li><div class="when">2024–2027</div><div class="what">Bachelor of Law, University of Fribourg<span>Distinctions in European law and bilingual studies</span></div></li>
+<li><div class="when">2025–2027</div><div class="what">Minor in economics (40 ECTS)<span>Focus on public finance</span></div></li>
+<li><div class="when">2023–2024</div><div class="what">Programme for gifted students, University of Bern<span>Constitutional history and legal philosophy</span></div></li>
+</ul>
+```
+### Scholarships
+
+```{=html}
+<ul class="rows">
+<li><div class="when">since 2024</div><div class="what">Fellow of the Swiss Study Foundation</div></li>
+</ul>
+```
+### Other activities
+
+```{=html}
+<ul class="rows">
+<li><div class="when">since 2021</div><div class="what">Wikipedia author<span>Constitutional law and constitutional history; many featured articles</span></div></li>
+</ul>
+```
+### Languages
+
+```{=html}
+<ul class="rows">
+<li><div class="when">Native</div><div class="what">German, Hebrew</div></li>
+<li><div class="when">Fluent</div><div class="what">English, French</div></li>
+<li><div class="when">Advanced</div><div class="what">Spanish</div></li>
+</ul>
+```
