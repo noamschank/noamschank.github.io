@@ -4,11 +4,11 @@ title: "Über mich"
 
 ::: {.home}
 ::: {.home-text}
-[Staatsrecht · Rechtstheorie · Juristische Methodenlehre]{.fields}
+[Staatsrecht · Rechtstheorie · Juristische Methodenlehre · Law and Economics]{.fields}
 
-Ich studiere Rechtswissenschaft an der Universität Freiburg, zweisprachig auf Deutsch und Französisch, und daneben Volkswirtschaftslehre mit Schwerpunkt Finanzwissenschaft. Meine Arbeit gilt dem Staatsrecht, der Rechtstheorie und der juristischen Methodenlehre.
+Ich studiere Rechtswissenschaft an der Universität Freiburg, zweisprachig auf Deutsch und Französisch, und daneben Volkswirtschaftslehre mit Schwerpunkt Finanzwissenschaft. Meine Leidenschaft gilt dem Staatsrecht, der Rechtstheorie, der juristischen Methodenlehre sowie Law and Economics.
 
-Ich bin Hilfsassistent am Lehrstuhl Frei der Fernuniversität Brig und Tutor für Grundrechte. Zuvor arbeitete ich, noch als Gymnasiast, am Lehrstuhl Tschentscher der Universität Bern mit historischen Verfassungstexten. Seit 2021 schreibe ich Wikipedia-Artikel zum Staatsrecht und zur Verfassungsgeschichte. Ich bin Stipendiat der Schweizerischen Studienstiftung.
+Ich bin Hilfsassistent am Lehrstuhl Frei der Fernuniversität Brig und Tutor für Grundrechte. Zuvor arbeitete ich, noch als Gymnasiast, am Lehrstuhl Tschentscher der Universität Bern mit historischen Verfassungstexten. Seit 2021 schreibe ich Wikipedia-Artikel zum Staatsrecht und zur Verfassungsgeschichte. Ich werde seit 2024 durch die Schweizerische Studienstiftung gefördert.
 
 ### Freizeit
 
