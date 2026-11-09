@@ -40,6 +40,8 @@ keep it simple.
   by the owner for the site.
 - `noindex` removed at the owner's request; the site is meant to be found.
 - Tutorial listed as University of Fribourg, taught in German: unconfirmed.
+- Notizen and Stellungnahmen are hidden (excluded in `project.render`,
+  navbar entries commented out) until the owner has content for them.
 
 ## Rules
 - Owner writes all texts. Never invent biography, affiliations,

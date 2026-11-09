@@ -4,6 +4,10 @@ project:
   render:
     - "*.qmd"
     - "*/*.qmd"
+    # Hidden until there is content. To show them again, delete the two
+    # lines below and the two "#" in front of the navbar entries.
+    - "!notes/"
+    - "!stellungnahmen.qmd"
   resources:
     - materialien/
     - CNAME
@@ -24,10 +28,10 @@ website:
         text: Publikationen
       - href: teaching.qmd
         text: Lehre
-      - href: notes/index.qmd
-        text: Notizen
-      - href: stellungnahmen.qmd
-        text: Stellungnahmen
+      # - href: notes/index.qmd
+      #   text: Notizen
+      # - href: stellungnahmen.qmd
+      #   text: Stellungnahmen
     right:
       - href: index.qmd
         text: DE
