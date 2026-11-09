@@ -6,10 +6,11 @@ project:
     - "*/*.qmd"
   resources:
     - materialien/
+    - CNAME
 
 website:
   title: "Noam Schank"
-  site-url: "https://noamschank.github.io"
+  site-url: "https://noamschank.com"
   draft-mode: gone
   description: "Staatsrecht, Rechtstheorie und juristische Methodenlehre."
   navbar:

@@ -45,5 +45,6 @@ keep it simple.
 - Owner writes all texts. Never invent biography, affiliations,
   publications or claims. Leave a clear TODO where text is missing.
 - Don't publish photos of the owner unless he supplies them himself.
-- A custom domain may be added later via a CNAME file; don't add one now.
+- Custom domain: noamschank.com (registrar green.ch). `CNAME` file and
+  `site-url` set; the domain itself is set in GitHub → Settings → Pages.
 - Must not depend on any claude.ai account feature. Everything is in this repo.
