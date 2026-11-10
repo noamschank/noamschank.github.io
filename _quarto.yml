@@ -16,6 +16,7 @@ website:
   title: "Noam Schank"
   site-url: "https://noamschank.com"
   draft-mode: gone
+  search: false
   description: "Staatsrecht, Rechtstheorie und juristische Methodenlehre."
   navbar:
     collapse-below: lg

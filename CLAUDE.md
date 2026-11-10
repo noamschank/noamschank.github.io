@@ -32,6 +32,7 @@ keep it simple.
   notes, and never writes sandbox DOIs back. `notes/_metadata.yml` adds a
   citation box and Google Scholar meta tags to every note.
 - `website: draft-mode: gone` keeps `draft: true` notes off the site.
+- `website: search: false`: no search bar (owner's choice, 2026-11-10).
 
 ## Status (2026-11-09)
 - Content filled in from the owner's CV and approved by him in chat:
