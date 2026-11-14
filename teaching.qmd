@@ -6,10 +6,10 @@ title: "Lehre"
 
 ```{=html}
 <ul class="rows">
-<li><div class="when">HS 2026</div><div class="what">Tutorat Verfassungsrecht (Grundrechte), Universität Freiburg<span>Deutsch</span></div></li>
+<li><div class="when">HS 2026</div><div class="what">Tutorium Verfassungsrecht (Grundrechte), Universität Freiburg<span>Deutsch</span></div></li>
 <li><div class="when">seit Sept. 2025</div><div class="what">Lehrstuhl Frei, Fernuniversität Brig<span>Konzeption von Falllösungen und Prüfungen</span></div></li>
 </ul>
 ```
-## Unterlagen zum Tutorat Grundrechte
+## Unterlagen zum Tutorium Grundrechte
 
 - [5. Tutorium: Grundrechtliche Aktualitäten](materialien/tutorium-05-aufgabenblatt.pdf) – Aufgabenblatt (PDF)
