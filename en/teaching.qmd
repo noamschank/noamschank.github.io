@@ -13,6 +13,4 @@ lang: en
 ```
 ## Materials for the fundamental rights tutorial
 
-::: {.note}
-Materials for the tutorial will appear here during the semester.
-:::
+- [Tutorial 5: Grundrechtliche Aktualitäten](../materialien/tutorium-05-aufgabenblatt.pdf) – worksheet (PDF, in German)

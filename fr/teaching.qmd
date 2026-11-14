@@ -13,6 +13,4 @@ lang: fr
 ```
 ## Documents du tutorat de droits fondamentaux
 
-::: {.note}
-Les documents du tutorat seront publiés ici au cours du semestre.
-:::
+- [5e tutorat : Grundrechtliche Aktualitäten](../materialien/tutorium-05-aufgabenblatt.pdf) – feuille d’exercices (PDF, en allemand)

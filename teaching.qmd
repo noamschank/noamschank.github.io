@@ -12,6 +12,4 @@ title: "Lehre"
 ```
 ## Unterlagen zum Tutorat Grundrechte
 
-::: {.note}
-Die Unterlagen zum Tutorat erscheinen hier im Laufe des Semesters.
-:::
+- [5. Tutorium: Grundrechtliche Aktualitäten](materialien/tutorium-05-aufgabenblatt.pdf) – Aufgabenblatt (PDF)
